@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827169889607",
+    "project_id": "practicaautenticaciongutierrez",
+    "storage_bucket": "practicaautenticaciongutierrez.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827169889607:android:084833261336d098060062",
+        "android_client_info": {
+          "package_name": "com.example.practicaautenticaciongutierrezr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_v_VJQhdSgIDD1WrbkXFtKbiipXCk8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

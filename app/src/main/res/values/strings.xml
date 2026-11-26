@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PracticaAutenticacionGutierrezR</string>
+    <string name="tagline">Millions of songs.\nFree on Spotify</string>
+    <string name="sign_up_free">Sign up free</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="back">Volver</string>
+    <string name="go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="go_to_sign_up">¿No tienes cuenta? Regístrate</string>
+    <string name="welcome">¡Bienvenido!</string>
+    <string name="no_email">Sin correo</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="invalid_email">Correo electrónico no válido</string>
+    <string name="short_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="empty_password">Escribe tu contraseña</string>
+    <string name="signup_success">Registro correcto</string>
+    <string name="signup_error">No se pudo registrar el usuario</string>
+    <string name="login_success">Inicio de sesión correcto</string>
+    <string name="login_error">No se pudo iniciar sesión</string>
+    <string name="logout_success">Sesión cerrada</string>
+</resources>

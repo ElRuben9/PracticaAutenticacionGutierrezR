@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF121212</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF393939</color>
+    <color name="green">#FF49DD63</color>
+    <color name="background_button">#FF111111</color>
+    <color name="shape_button">#FF3E3E3E</color>
+    <color name="unselected_field">#FF4A4A4A</color>
+    <color name="selected_field">#FF7C7C7C</color>
+    <color name="hint_gray">#FFBDBDBD</color>
+</resources>
