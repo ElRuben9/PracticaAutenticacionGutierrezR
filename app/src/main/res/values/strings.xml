@@ -22,4 +22,10 @@
     <string name="login_success">Inicio de sesión correcto</string>
     <string name="login_error">No se pudo iniciar sesión</string>
     <string name="logout_success">Sesión cerrada</string>
+    <string name="popular_artists">Popular artist</string>
+    <string name="no_artists">Todavía no hay artistas en Firestore</string>
+    <string name="add_artist">Añadir artista</string>
+    <string name="artist_added">Artista agregado a Firestore</string>
+    <string name="artist_add_error">No se pudo agregar el artista</string>
+    <string name="artists_load_error">No se pudieron cargar los artistas</string>
 </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="88dp"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:parentTag="android.widget.LinearLayout">
+
+    <ImageView
+        android:id="@+id/ivArtist"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:background="@drawable/bg_circle"
+        android:clipToOutline="true"
+        android:contentDescription="@string/popular_artists"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/ic_spotify" />
+
+    <TextView
+        android:id="@+id/tvArtistName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        tools:text="Artista" />
+
+</LinearLayout>

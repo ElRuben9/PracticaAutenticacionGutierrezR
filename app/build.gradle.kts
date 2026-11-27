@@ -45,6 +45,10 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:34.7.0"))
     implementation("com.google.firebase:firebase-auth")
 
+    // Firebase Firestore + Coil para cargar imágenes por URL
+    implementation("com.google.firebase:firebase-firestore")
+    implementation(libs.coil)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
